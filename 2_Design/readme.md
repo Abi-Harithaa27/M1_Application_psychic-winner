@@ -1,10 +1,9 @@
 # Design
 
 ## High Level Design 
+BEHAVIOURAL DIAGRAM
+![HighLeve![behavioural diagram drawio](https://user-images.githubusercontent.com/94228057/143142445-e6f2cc34-cc37-430a-8487-c041d67efc90.png)
 
---- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
 
 ## Low Level Design 
 
