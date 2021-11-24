@@ -6,7 +6,5 @@ BEHAVIOURAL DIAGRAM
 
 
 ## Low Level Design 
-
---- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
-![FeaturesBehaviouralDiagram](Link to Pic)
+STRUCTURAL DIAGRAM
+![structural Diagram drawio](https://user-images.githubusercontent.com/94228057/143164223-fdf14225-a3d5-4994-b503-860621ac08e7.png)
